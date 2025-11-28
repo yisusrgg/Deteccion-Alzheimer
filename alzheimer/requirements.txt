@@ -1,0 +1,5 @@
+django
+keras-core
+torch
+opencv-python
+numpy

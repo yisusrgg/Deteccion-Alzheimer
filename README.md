@@ -1,22 +1,22 @@
-# 🧠 Detección de Alzheimer con Deep Learning y Django
+#  Detección de Alzheimer con Deep Learning y Django
 
 Este proyecto es una aplicación web diseñada para asistir en el diagnóstico temprano del Alzheimer mediante el análisis de imágenes de resonancia magnética (MRI). Utiliza un modelo de **Redes Neuronales Convolucionales (CNN)** entrenado con Deep Learning para clasificar imágenes entre pacientes sanos y pacientes con Alzheimer.
 
-## 🚀 Características
+##  Características
 
 *   **Interfaz Web Moderna:** Desarrollada con **Django** y **Bootstrap 5**, ofreciendo una experiencia de usuario limpia y responsiva.
 *   **Análisis en Tiempo Real:** Carga una imagen MRI y obtén una predicción instantánea.
 *   **Modelo de Deep Learning:** Implementado con **Keras Core** (backend Torch), capaz de identificar patrones visuales asociados a la enfermedad.
 *   **Resultados Claros:** Muestra la clasificación ("Sano" o "Alzheimer") junto con el porcentaje de confianza del modelo.
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 *   **Backend:** Python, Django
 *   **Inteligencia Artificial:** Keras Core, PyTorch, NumPy
 *   **Procesamiento de Imágenes:** OpenCV
 *   **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
 
-## 📋 Requisitos Previos
+##  Requisitos Previos
 
 Asegúrate de tener instalado **Python 3.10+** en tu sistema.
 

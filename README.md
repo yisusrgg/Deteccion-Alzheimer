@@ -59,24 +59,5 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 6.  **Usar la aplicación:**
     Abre tu navegador y visita: `http://127.0.0.1:8000/`
 
-## 📂 Estructura del Proyecto
-
-```text
-├── OriginalDataset/       # Imágenes para el entrenamiento
-├── entrenamiento.ipynb    # Notebook para entrenar el modelo
-├── alzheimer_model.keras  # Modelo entrenado guardado
-├── alzheimer/             # Proyecto Django
-│   ├── manage.py
-│   ├── alzheimer/         # Configuración del proyecto
-│   └── Examen/            # Aplicación principal
-│       ├── views.py       # Lógica de predicción
-│       └── templates/     # Interfaz de usuario
-└── requirements.txt       # Lista de dependencias
-```
-
-## 🤝 Contribución
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la precisión del modelo o la interfaz, no dudes en hacer un fork del repositorio y enviar un Pull Request.
-
 ---
-**Desarrollado por [Tu Nombre]**
+**Desarrollado por Jesus Rosiles González, Lizet Guadalupe López Medina, America Citlalli López Lemus, Paola Montserrat Ruiz Carmen**
